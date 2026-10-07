@@ -2,7 +2,7 @@
 
 API de pagos en Python para el curso de Platzi sobre testing y code review con IA.
 
-El proyecto esta preparado para avanzar por incrementos de clase. Para el Modulo C parte de una base limpia de producto: `amounts.py`, `refunds.py`, `auth.py` y `api.py` tienen contratos confirmados y tests unitarios.
+El proyecto esta preparado para avanzar por incrementos de clase. Para el Modulo C parte de una base limpia de producto: `amounts.py`, `refunds.py`, `auth.py` y `api.py` tienen contratos confirmados y tests unitarios. (prueba)
 
 Los artefactos especificos del revisor de PR del Modulo B se dejan fuera de esta rama para que las demos de auditoria de codigo existente empiecen sin ruido.
 
