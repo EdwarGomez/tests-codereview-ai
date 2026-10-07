@@ -12,7 +12,7 @@ jobs:
     name: Review pull request diff
     runs-on: ubuntu-latest
     env:
-      OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL || 'openai/gpt-4o-mini' }}
+      OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL || 'openrouter/free' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
